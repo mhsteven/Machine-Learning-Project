@@ -1,0 +1,22 @@
+(lp0
+Vpoi
+p1
+aVexercised_stock_options
+p2
+aVother
+p3
+aVexpenses
+p4
+aVratio email to poi
+p5
+aVshared_receipt_with_poi
+p6
+aVtotal_stock_value
+p7
+aVtotal_payments
+p8
+aVbonus
+p9
+aVrestricted_stock
+p10
+a.

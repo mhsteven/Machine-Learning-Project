@@ -1,0 +1,11 @@
+Reference:
+
+- Udacity lecture.
+- http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+- https://github.com/willemolding/IdentifyFraudEnron/blob/master/.ipynb_checkpoints/scratchpad-checkpoint.ipynb
+- https://stackoverflow.com/questions/17477979/dropping-infinite-values-from-dataframes-in-pandas
+- https://medium.com/@williamkoehrsen/machine-learning-with-python-on-the-enron-dataset-8d71015be26d
+- https://olegleyz.github.io/enron_classifier.html
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
